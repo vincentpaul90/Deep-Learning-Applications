@@ -59,13 +59,6 @@ The dataset used in this project contains tweets related to the Pfizer vaccine. 
 - The analysis reveals the distribution of public sentiment (Positive, Negative, Neutral) towards the Pfizer vaccine.
 - Word clouds and tokenized word lists highlight the most frequently used words in tweets.
 
-## Example Visualizations
-
-- **Sentiment Distribution:**
-  ![Bar Plot Example](example_bar_plot.png)
-
-- **Word Cloud for Positive Sentiment:**
-  ![Word Cloud Example](example_wordcloud_positive.png)
 
 ## Contributions
 
